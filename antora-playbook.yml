@@ -8,7 +8,8 @@ content:
   - url: https://gitlab.com/antora/demo/demo-component-b.git
     branches: [v2.0, v1.0]
     start_path: docs
-  - url: ./docs
+  - url: https://github.com/poglazov/poglazov.github.io.git
+    start_path: docs
   
 ui:
   bundle:
