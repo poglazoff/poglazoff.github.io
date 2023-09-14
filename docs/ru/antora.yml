@@ -1,0 +1,7 @@
+name: component-d
+title: Component D
+version: 2.5
+prerelease: -beta.1
+lang: ru
+nav:
+- modules/ROOT/nav.adoc

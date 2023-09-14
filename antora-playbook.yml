@@ -1,6 +1,6 @@
 site:
   title: Antora Docs
-  start_page: component-c:ru:index.adoc
+  start_page: component-d:ROOT:index.adoc
 content:
   sources:
   - url: https://gitlab.com/antora/demo/demo-component-a.git
@@ -9,7 +9,9 @@ content:
     branches: [v2.0, v1.0]
     start_path: docs
   - url: https://github.com/poglazov/poglazov.github.io.git
-    start_path: docs
+    start_paths:
+    - en
+    - ru
   
 ui:
   bundle:
