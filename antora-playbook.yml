@@ -10,8 +10,8 @@ content:
     start_path: docs
   - url: https://github.com/poglazov/poglazov.github.io.git
     start_paths:
-    - en
-    - ru
+    - docs/en
+    - docs/ru
   
 ui:
   bundle:
