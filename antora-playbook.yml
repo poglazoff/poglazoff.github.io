@@ -1,6 +1,6 @@
 site:
   title: Antora Docs
-  start_page: component-d:ROOT:index.adoc
+  start_page: ru:ROOT:index.adoc
 content:
   sources:
   - url: https://gitlab.com/antora/demo/demo-component-a.git
