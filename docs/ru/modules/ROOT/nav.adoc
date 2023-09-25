@@ -1,1 +1,2 @@
+* xref:wiren-board-7.adoc[]
 * xref:index.adoc[]

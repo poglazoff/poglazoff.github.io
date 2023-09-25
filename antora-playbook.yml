@@ -1,6 +1,6 @@
 site:
-  title: Antora Docs
-  start_page: ru:ROOT:index.adoc
+  title: WB Docs Demo
+  start_page: ru:ROOT:wiren-board-7.adoc
 content:
   sources:
   - url: https://gitlab.com/antora/demo/demo-component-a.git
