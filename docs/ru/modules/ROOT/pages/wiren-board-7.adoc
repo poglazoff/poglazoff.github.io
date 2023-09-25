@@ -1,12 +1,12 @@
 = Wiren Board 7
 
-https://wirenboard.com/product/wiren-board-7/[*Купить в интернет-магазине*]
+**https://wirenboard.com/product/wiren-board-7/[Купить в интернет-магазине]**
 image::WB7.2_side.png[title="Контроллер Wiren Board rev. 7.2"]
 image::WB7.2_System_Level.png[title="Логическая блок-схема контроллера"]
 image::SVG-Dashboard_Example.png[title="Пример https://wirenboard.com/wiki/SVG-Dashboards[графического SVG-дашборда]"]
 
-*Эта статья описывает контроллер Wiren Board 7.
-Описание следующей версии https://wirenboard.com/wiki/Wiren_Board_7.4[Wiren Board 7.4], а предыдущей — https://wirenboard.com/wiki/Wiren_Board_6[Wiren Board 6].*
+**Эта статья описывает контроллер Wiren Board 7.
+Описание следующей версии https://wirenboard.com/wiki/Wiren_Board_7.4[Wiren Board 7.4], а предыдущей — https://wirenboard.com/wiki/Wiren_Board_6[Wiren Board 6].**
 
 == Сводная таблица характеристик
 
