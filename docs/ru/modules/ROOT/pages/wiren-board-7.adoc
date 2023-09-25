@@ -15,8 +15,7 @@ image::SVG-Dashboard_Example.png[title="Пример https://wirenboard.com/wiki
 
 [cols="1,1"]
 |===
-|*Общее*
-|*Общее*
+2+|*Общее*
 
 |Процессор
 |ARM Cortex A7 4 ядра 1.2 ГГц
