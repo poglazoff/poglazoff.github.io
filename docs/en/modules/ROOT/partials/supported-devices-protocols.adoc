@@ -1,0 +1,4 @@
+2+^h|Protocols
+
+|Polling sensors and working with devices (as standard)
+|1-Wire • DLMS/COSEM • Modbus RTU/TCP Master • IEC 61107 • Wiegand

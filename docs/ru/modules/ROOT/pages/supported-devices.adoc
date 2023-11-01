@@ -1,0 +1,5 @@
+= Поддерживаемые устройства, протоколы и программы
+
+|===
+include::partial$supported-devices-protocols.adoc[]
+|===

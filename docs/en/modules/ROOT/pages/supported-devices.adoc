@@ -1,0 +1,5 @@
+= Supported devices, protocols and programs
+
+|===
+include::partial$supported-devices-protocols.adoc[]
+|===

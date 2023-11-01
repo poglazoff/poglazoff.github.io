@@ -1,1 +1,3 @@
 * xref:index.adoc[]
+* xref:wiren-board-7.adoc[]
+** xref:supported-devices.adoc[]

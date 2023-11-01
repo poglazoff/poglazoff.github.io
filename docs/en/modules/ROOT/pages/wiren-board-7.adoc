@@ -1,0 +1,11 @@
+= Wiren Board 7
+
+[.float-group]
+--
+image::ru:ROOT:WB7.2_side.png[title=Wiren Board rev. 7.2 controller,300,role=right]
+
+https://wirenboard.com/product/wiren-board-7/[*Buy in the online store*]
+
+*This article describes the Wiren Board 7 controller.
+Description of the next version is https://wirenboard.com/wiki/Wiren_Board_7.4[Wiren Board 7.4], and the previous version is https://wirenboard.com/wiki/Wiren_Board_6[Wiren Board 6].*
+--
